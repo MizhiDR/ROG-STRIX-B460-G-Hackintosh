@@ -23,3 +23,4 @@
 # 此版本过后不再更新！自行更换三码，有问题反馈到lssues
 # BIOS自行设置，USB已定制
 
+！[配置图](https://github.com/MizhiDR/ROG-STRIX-B460-G-Hackintosh/blob/main/AD183F9419D92B56559EE4F65572DD0F.png)
